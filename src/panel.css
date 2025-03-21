@@ -1,0 +1,28 @@
+body {
+    font-family: system-ui, sans-serif;
+    padding: 10px;
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+h3 {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#element-info {
+    font-family: monospace;
+}
+
+#children-list {
+    font-family: monospace;
+    margin-inline: 0;
+}

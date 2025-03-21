@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "DOM Analyzer",
+  "version": "0.0.1",
+  "description": "DOM nodes and elements analyzer.",
+  "icons": {
+    "128": "icon.png",
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png"
+  },
+  "incognito": "split",
+  "devtools_page": "devtools.html"
+}
